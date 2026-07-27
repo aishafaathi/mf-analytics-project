@@ -2,7 +2,6 @@
 
 An end-to-end Mutual Fund Analytics project developed using **Python, Pandas, SQLite, SQL, Plotly, and Streamlit**. This project analyzes mutual fund performance, risk, assets under management (AUM), expense ratios, and NAV trends through an interactive dashboard.
 
----
 
 ## 🚀 Project Overview
 
@@ -135,36 +134,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run dashboard/app.py
 ```
-
----
-
-## 📸 Dashboard Screenshots
-
-Add screenshots inside:
-
-```
-reports/screenshots/
-```
-
-Example:
-
-- Dashboard Overview
-- Performance Analysis
-- Fund House Comparison
-- Data Table
-
----
-
-## 📌 Future Improvements
-
-- Live NAV API integration
-- Portfolio optimization analysis
-- Mutual fund recommendation engine
-- Predictive analytics using Machine Learning
-- Streamlit Cloud deployment
-
----
-
 ## 👩‍💻 Author
 
 **Aisha Faathihah Nalakath**
